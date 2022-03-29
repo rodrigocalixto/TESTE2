@@ -1,0 +1,1 @@
+exec java -jar /opt/layout/bin/freeRouting.jar ${1:+-de} $1
